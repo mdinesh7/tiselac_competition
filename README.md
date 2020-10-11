@@ -8,5 +8,3 @@
   - Put the raw data in data/raw folder
   - Run feature_engineering.py which creates files in data/processed folder.
   - Run final_mode.py
-
-[detailed steps written in blog post](http://www.dinesh.xyz/land-cover-classification-2017.html)
